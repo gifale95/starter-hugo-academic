@@ -1,6 +1,7 @@
 ---
 title: Ale Gifford
-role: Professor of Artificial Intelligence
+role: PhD candidate in Computational Visual Neuroscience
+avatar_filename: image_self.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
