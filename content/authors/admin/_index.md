@@ -21,6 +21,12 @@ social:
   - icon: cv
     icon_pack: ai
     link: uploads/cv-gifford.pdf
+  - display:
+      header: false
+    icon_pack: fas
+    icon: orcid
+    label: ORCID
+    link: https://orcid.org/0000-0002-8923-9477
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
