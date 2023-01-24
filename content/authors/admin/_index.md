@@ -12,20 +12,24 @@ social:
   - icon: envelope
     icon_pack: fas
     link: /#contact
+    label: Contact
   - icon: graduation-cap
     icon_pack: fas
     link: https://scholar.google.com/citations?user=zJAplbQAAAAJ&hl=en
+    label: Google Scholar
   - icon: github
     icon_pack: fab
     link: https://github.com/gifale95
+    label: GitHub
   - icon: cv
     icon_pack: ai
     link: uploads/cv-gifford.pdf
+    label: CV
   - display:
       header: false
     icon_pack: fab
     icon: orcid
-    label: ""
+    label: ORCID
     link: https://orcid.org/0000-0002-8923-9477
 organizations:
   - name: Stanford University
