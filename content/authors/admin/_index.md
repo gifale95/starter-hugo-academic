@@ -1,7 +1,7 @@
 ---
 title: Ale Gifford
 role: PhD candidate in Computational Visual Neuroscience
-avatar_filename: image_self.png
+avatar_filename: avatar.jpg
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests:
