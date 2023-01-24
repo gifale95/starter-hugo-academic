@@ -20,7 +20,7 @@ social:
     link: https://github.com/gifale95
   - icon: cv
     icon_pack: ai
-    link: uploads/cv.pdf
+    link: uploads/cv-gifford.pdf
 organizations:
   - name: Stanford University
     url: https://www.stanford.edu/
