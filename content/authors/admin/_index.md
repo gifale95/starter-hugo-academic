@@ -21,16 +21,16 @@ social:
     icon_pack: fab
     link: https://github.com/gifale95
     label: ""
-  - icon: cv
-    icon_pack: ai
-    link: uploads/cv-gifford.pdf
-    label: ""
   - display:
       header: false
     icon_pack: fab
     icon: orcid
     label: ""
     link: https://orcid.org/0000-0002-8923-9477
+  - icon: cv
+    icon_pack: ai
+    link: uploads/cv-gifford.pdf
+    label: ""
 organizations: []
 education:
   courses: []
